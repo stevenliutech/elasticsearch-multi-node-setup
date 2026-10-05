@@ -45,7 +45,7 @@ A streamlined local development lab for orchestrating a multi-node **Elasticsear
 
 1. **Clone the Repository:**
    ```powershell
-   git clone https://github.com/your-username/elasticsearch-kibana-local-lab.git
+   git clone https://github.com/stevenliutech/elasticsearch-kibana-local-lab.git
    cd elasticsearch-kibana-local-lab
    ```
 
